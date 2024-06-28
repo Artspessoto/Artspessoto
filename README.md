@@ -4,7 +4,7 @@
 Tecnólogo em Análise e Desenvolvimento de Sistemas, sou desenvolvedor com experiência nas tecnologias Angular, TypeScript, VB.NET, C#, .NET Framework. Mais recentemente tenho dominado e adiquirido muita experiência também dentro do ecossistema JavaScript, principalmente com o ambiente de execução Node.js e seu framework Express.js. 
 
 
-Sou dedicado e que aprende muito rápido, sempre buscando novos desafios e aprendizados buscando evoluir minhas ideias e projetos. Estou disposto para encarar novos desafios que me desafiem e que me permitam crescer ainda mais. Entre em contato comigo! Posso te ajudar a construir soluções inovadoras e eficientes.
+Sou dedicado e aprendo rápido, sempre buscando novos desafios para evoluir minhas ideias e projetos. Estou disposto para encarar novos desafios que me permitam crescer ainda mais. Entre em contato comigo! Posso te ajudar a construir soluções inovadoras e eficientes.
 
 ### Redes Sociais
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_spessoto/)
