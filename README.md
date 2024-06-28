@@ -1,7 +1,7 @@
 ## 🚀 Olá, me chamo Arthur Spessoto !
 
 ### Sobre mim
-Tecnólogo em Análise e Desenvolvimento de Sistemas, sou desenvolvedor com experiência nas tecnologias Angular, TypeScript, VB.NET, C#, .NET Framework. Mais recentemente tenho dominado e adiquirido muita experiência também dentro do ecossistema JavaScript, principalmente com o ambiente de execução Node.js e seu framework Express.js. 
+Tecnólogo em Análise e Desenvolvimento de Sistemas, sou desenvolvedor com experiência nas tecnologias Angular, TypeScript, VB.NET, C#, .NET Framework. Mais recentemente tenho dominado e adquirido muita experiência também dentro do ecossistema JavaScript, principalmente com o ambiente de execução Node.js e seu framework Express.js. 
 
 
 Sou dedicado e aprendo rápido, sempre buscando novos desafios para evoluir minhas ideias e projetos. Estou disposto para encarar novos desafios que me permitam crescer ainda mais. Entre em contato comigo! Posso te ajudar a construir soluções inovadoras e eficientes.
