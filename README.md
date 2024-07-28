@@ -21,7 +21,7 @@ Sou dedicado e aprendo rápido, sempre buscando novos desafios para evoluir minh
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artspessoto&layout=compact&theme=vision-friendly-dark")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artspessoto&layout=compact&theme=github_dark)
 
 ### Principais ferramentas utilizadas
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -32,5 +32,5 @@ Sou dedicado e aprendo rápido, sempre buscando novos desafios para evoluir minh
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=Artspessoto&show_icons=true&theme=vision-friendly-dark)
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=Artspessoto&show_icons=true&theme=github_dark)
 
