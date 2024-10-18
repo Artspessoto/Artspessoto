@@ -1,8 +1,9 @@
 ## 🚀 Olá, me chamo Arthur Spessoto !
 
 ### Sobre mim
-Tecnólogo em Análise e Desenvolvimento de Sistemas, sou desenvolvedor com experiência nas tecnologias Angular, TypeScript, VB.NET, C#, .NET Framework. Mais recentemente tenho dominado e adquirido muita experiência também dentro do ecossistema JavaScript, principalmente com o ambiente de execução Node.js e seu framework Express.js. 
+Tecnólogo em Análise e Desenvolvimento de Sistemas, sou desenvolvedor Full Stack com sólida experiência em tecnologias front-end e back-end, incluindo React.js, Node.js, Angular e C#. enho ampla experiência no desenvolvimento de APIs robustas utilizando Express.js e Fastify, sempre integrando essas soluções a sistemas escaláveis e de alta performance.
 
+Venho me aprofundando ainda mais no ecossistema Node.js, sempre com foco na busca de novos conhecimentos para entregar projetos eficientes e inovadores. Meu objetivo é sempre encontrar soluções inovadoras e otimizar a performance de sistemas complexos, garantindo entregas que agreguem valor ao negócio. 
 
 Sou dedicado e aprendo rápido, sempre buscando novos desafios para evoluir minhas ideias e projetos. Estou disposto para encarar novos desafios que me permitam crescer ainda mais. Entre em contato comigo! Posso te ajudar a construir soluções inovadoras e eficientes.
 
@@ -19,6 +20,7 @@ Sou dedicado e aprendo rápido, sempre buscando novos desafios para evoluir minh
 ### Frameworks e bibliotecas
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artspessoto&layout=compact&theme=github_dark)
@@ -31,6 +33,7 @@ Sou dedicado e aprendo rápido, sempre buscando novos desafios para evoluir minh
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=Artspessoto&show_icons=true&theme=github_dark)
 
