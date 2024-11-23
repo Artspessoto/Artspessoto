@@ -1,11 +1,15 @@
 ## 🚀 Olá, me chamo Arthur Spessoto !
 
 ### Sobre mim
-Tecnólogo em Análise e Desenvolvimento de Sistemas, sou desenvolvedor Full Stack com sólida experiência em tecnologias front-end e back-end, incluindo React.js, Node.js, Angular e C#. enho ampla experiência no desenvolvimento de APIs robustas utilizando Express.js e Fastify, sempre integrando essas soluções a sistemas escaláveis e de alta performance.
+Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web, APIs robustas e sistemas escaláveis. Trabalho com React.js, Angular, Node.js, Fastify, Express e C#, com foco na criação de soluções inovadoras e eficientes.
 
-Venho me aprofundando ainda mais no ecossistema Node.js, sempre com foco na busca de novos conhecimentos para entregar projetos eficientes e inovadores. Meu objetivo é sempre encontrar soluções inovadoras e otimizar a performance de sistemas complexos, garantindo entregas que agreguem valor ao negócio. 
+Atualmente, presto serviços como freelancer utilizando React, TypeScript, Next.js e Tailwind CSS para desenvolver interfaces modernas e responsivas.
 
-Sou dedicado e aprendo rápido, sempre buscando novos desafios para evoluir minhas ideias e projetos. Estou disposto para encarar novos desafios que me permitam crescer ainda mais. Entre em contato comigo! Posso te ajudar a construir soluções inovadoras e eficientes.
+Tenho experiência na modernização de sistemas legados e na criação de componentes reutilizáveis, contribuindo para a usabilidade e performance das aplicações. Também atuo com bibliotecas e frameworks para gráficos, grids interativos e mapas.
+
+Venho me aprofundando ainda mais no ecossistema Node.js, sempre com foco na busca de novos conhecimentos para entregar projetos eficientes e inovadores que agreguem valor ao negócio.
+
+Sou dedicado e aprendo rápido, sempre buscando novos desafios para evoluir minhas ideias e projetos. Estou disposto para encarar novos desafios que me permitam crescer ainda mais.
 
 ### Redes Sociais
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_spessoto/)
@@ -18,9 +22,10 @@ Sou dedicado e aprendo rápido, sempre buscando novos desafios para evoluir minh
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Frameworks e bibliotecas
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artspessoto&layout=compact&theme=github_dark)
