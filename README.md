@@ -3,13 +3,13 @@
 ### Sobre mim
 Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web, APIs robustas e sistemas escaláveis. Trabalho com React.js, Angular, Node.js, Fastify, Express e C#, com foco na criação de soluções inovadoras e eficientes.
 
-Atualmente, trabalho como Desenvolvedor Front-end utilizando React, TypeScript, Next.js e Tailwind CSS para desenvolver interfaces modernas e responsivas.
+Atualmente, trabalho como Desenvolvedor Front-end no Grupo CPCON, onde crio interfaces modernas e responsivas com React, TypeScript, Next.js e Tailwind CSS, ajudando a transformar experiências de usuários em soluções de alto impacto, melhorando sua experiência.
 
 Tenho experiência na modernização de sistemas legados e na criação de componentes reutilizáveis, contribuindo para a usabilidade e performance das aplicações. Também atuo com bibliotecas e frameworks para gráficos, grids interativos e mapas.
 
 Venho me aprofundando ainda mais no ecossistema Node.js, sempre com foco na busca de novos conhecimentos para entregar projetos eficientes e inovadores que agreguem valor ao negócio.
 
-Sou dedicado e aprendo rápido, sempre buscando novos desafios para evoluir minhas ideias e projetos. Estou disposto para encarar novos desafios que me permitam crescer ainda mais.
+Sou dedicado e aprendo rápido, sempre em busca de oportunidades para evoluir minhas ideias e projetos. Estou disposto para encarar novos desafios que me permitam crescer ainda mais.
 
 ### Redes Sociais
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_spessoto/)
