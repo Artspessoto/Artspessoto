@@ -3,7 +3,7 @@
 ### Sobre mim
 Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web, APIs robustas e sistemas escaláveis. Trabalho com React.js, Angular, Node.js, Fastify, Express e C#, com foco na criação de soluções inovadoras e eficientes.
 
-Atualmente, presto serviços como freelancer utilizando React, TypeScript, Next.js e Tailwind CSS para desenvolver interfaces modernas e responsivas.
+Atualmente, trabalho como Desenvolvedor Front-end utilizando React, TypeScript, Next.js e Tailwind CSS para desenvolver interfaces modernas e responsivas.
 
 Tenho experiência na modernização de sistemas legados e na criação de componentes reutilizáveis, contribuindo para a usabilidade e performance das aplicações. Também atuo com bibliotecas e frameworks para gráficos, grids interativos e mapas.
 
