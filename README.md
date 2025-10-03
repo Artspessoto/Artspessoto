@@ -5,7 +5,7 @@ Desenvolvedor Full Stack com foco em soluções web escaláveis.
 
 Minhas habilidades incluem:
 - **Front-end:** React.js, Angular, TypeScript, Next.js, Tailwind CSS. Especialista na criação de interfaces modernas e responsivas, e na modernização de sistemas.
-- **Back-end:** Node.js, Fastify, Express.
+- **Back-end:** Node.js, Fastify, Express, .NET.
 
 Busco constantemente novas tecnologias e desafios para entregar soluções eficientes e de alto valor.
 
